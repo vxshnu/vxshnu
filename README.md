@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Vishnu Narayanan and I'm a junior CS student at MBCET.<br>I'm just a beginner who doesn't know a lot but I'm interested in learning things :) , wanna know what I'm doing now?<br>Currently, I'm diving into React and exploring the basics of image processing<br>I'm also interested in learning AI, ML, CNN, AR, VR and so on.. <br><br> Check out my GitHub to explore my projects and see what I'm working on :) 
+Hi, my name is Vishnu Narayanan and I'm a junior CS student at MBCET.<br>I'm just a beginner who doesn't know a lot but I'm interested in learning things :) <br><br> Check out my GitHub to explore my projects and see what I'm working on :) 
 
 
 ## 🌐 Socials:
